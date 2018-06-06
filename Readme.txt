@@ -1,0 +1,1 @@
+API GET PIN : http://localhost/contentshubNb/incoming?msisdn=08581122334&type=weekly

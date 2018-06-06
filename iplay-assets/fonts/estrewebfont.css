@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'estrewebfont';
+	src: url('./estrewebfont.eot');
+	src: local('estrewebfont'), url('./estrewebfont.woff') format('woff'), url('./estrewebfont.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_63451">Text with this font applied</p> */
+.fontsforweb_fontid_63451 {
+	font-family: 'estrewebfont' !important;
+}
